@@ -26,6 +26,6 @@
     "woocommerce-api": "^1.5.0"
   },
   "devDependencies": {
-    "axios": "^0.24.0"
+    "axios": "^1.6.0"
   }
 }
